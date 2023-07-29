@@ -1,4 +1,4 @@
-# VueJS-with-Vite
+# VueJS-with-Vite (Construction in progress, not conpleted)
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -39,6 +39,7 @@ npm run dev
 ```sh
 npm run build
 ```
+### preparation of opening your a free account for two movie api, weather api and MongoDB:
 
 ### Replit for trail
 https://lab320233.francisleung.repl.co/staff
