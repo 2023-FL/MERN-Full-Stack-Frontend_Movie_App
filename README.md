@@ -32,6 +32,10 @@ import WeatherCard from './components/WeatherCard.vue';
 ```sh
 npm run dev
 ```
+### Replit for trail
+https://lab320233.francisleung.repl.co/staff
+![image](https://github.com/2023-FL/MERN-Full-Stack-Frontend_Movie_App/assets/57984642/46a542ca-29c5-47a2-ab8c-7be94e9ca69b)
+
 
 ### Compile and Minify for Production
 
