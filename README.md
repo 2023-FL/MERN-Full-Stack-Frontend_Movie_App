@@ -1,4 +1,4 @@
-# Construction in progress, not conpleted
+# Construction in progress, not completed yet
 # VueJS-with-Vite
 
 This template should help get you started developing with Vue 3 in Vite.
