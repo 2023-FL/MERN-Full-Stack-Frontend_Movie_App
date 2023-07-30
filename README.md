@@ -41,7 +41,7 @@ npm run dev
 npm run build
 ```
 ### preparation of opening your a free account for two movie api, weather api and MongoDB:
-- 1
+- 1. 
 - 2
 - 3
 - 
