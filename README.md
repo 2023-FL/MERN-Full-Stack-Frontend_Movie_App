@@ -41,7 +41,7 @@ npm run dev
 npm run build
 ```
 ### preparation of opening your a free account for two movie api, weather api and MongoDB:
-- 1. 
+- 1  
 - 2
 - 3
 - 
@@ -53,7 +53,8 @@ https://lab320233.francisleung.repl.co/staff
 
 ![image](https://github.com/2023-FL/MERN-Full-Stack-Frontend_Movie_App/assets/57984642/8fcae14b-b197-4603-b713-e5d6ad88b8d5)
 
-![Uploading image.png…]()
+![image](https://github.com/2023-FL/MERN-Full-Stack-Frontend_Movie_App/assets/57984642/2058b4a3-8b39-4b75-8dde-85c943afc34c)
+
 
 
 
