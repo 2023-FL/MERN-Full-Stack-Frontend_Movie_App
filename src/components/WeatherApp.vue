@@ -24,7 +24,7 @@ export default {
   },
   methods: {
     fetchWeatherData() {
-      const apiKey = "39aff41e62423a3b8a4daed359f5cb30";
+      const apiKey = "XXXXXXXXXXXX"; //Go to OpenWeather website for registering your own account for getting API Key
       const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${this.location}&units=metric&appid=${apiKey}`;
 
       axios
