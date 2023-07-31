@@ -52,7 +52,7 @@ export default {
   },
   methods: {
     getWeatherData() {
-      const API_KEY = '39aff41e62423a3b8a4daed359f5cb30'; // Replace with your OpenWeatherMap API key
+      const API_KEY = 'XXXXXXXXXXXXXXXX'; // Replace with your OpenWeatherMap API key after going to OpenWeather for getting your own API Key
       const CITY = 'Hong Kong'; // Replace with the desired city name
 
       const url = `https://api.openweathermap.org/data/2.5/weather?q=${CITY}&units=metric&appid=${API_KEY}`;
