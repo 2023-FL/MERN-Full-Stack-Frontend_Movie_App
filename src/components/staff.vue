@@ -139,10 +139,10 @@ export default {
         let endpoint = '';
         switch (sortBy.value) {
         case 'title':
-          endpoint = `https://www.omdbapi.com/?s=${searchTerm.value}&apikey=bff6445f`;
+          endpoint = `https://www.omdbapi.com/?s=${searchTerm.value}&apikey=XXXXXX`; //Please go to a free movie API website for getting your own API Key
           break;
         case 'year':
-          endpoint = `https://www.omdbapi.com/?t=${searchTerm.value}&y=${Yearsearch.value}&apikey=bff6445f`;
+          endpoint = `https://www.omdbapi.com/?t=${searchTerm.value}&y=${Yearsearch.value}&apikey=XXXXXX`; //Please go to a free movie API website for getting your own API Key
           break;
         default:
           break;
