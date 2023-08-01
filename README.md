@@ -1,5 +1,5 @@
 # Construction in progress, not completed yet
-# VueJS-with-Quasar Framework
+# Javascript + VueJS (HTML5+CSS) working with Quasar Framework
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -64,6 +64,7 @@ https://lab320233.francisleung.repl.co/staff
 
 ![image](https://github.com/2023-FL/MERN-Full-Stack-Frontend_Movie_App/assets/57984642/2058b4a3-8b39-4b75-8dde-85c943afc34c)
 
+Youtube link (https://youtu.be/89ntFfa6a3M)
 
 
 
