@@ -51,18 +51,18 @@ npm run build
   const apiKey = "XXXXXXXXXXXX"; //Go to OpenWeather website for registering your own account for getting API Key
   const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${this.location}&units=metric&appid=${apiKey}`;
 - Please go to the website of https://www.omdbapi.com/ for opening your own user account and get your own API Key; then, place API Key and url link into below enpoint statements in the file of staff.js
-try {
-        let endpoint = '';
-        switch (sortBy.value) {
-        case 'title':
-          endpoint = `https://www.omdbapi.com/?s=${searchTerm.value}&apikey=XXXXXX`; //Please go to a free movie API website for getting your own API Key
-          break;
-        case 'year':
-          endpoint = `https://www.omdbapi.com/?t=${searchTerm.value}&y=${Yearsearch.value}&apikey=XXXXXX`; //Please go to a free movie API website for getting your own API Key
-          break;
-        default:
-          break;
-  }
+- try {
+-     let endpoint = '';
+-     switch (sortBy.value) {
+-       case 'title':
+-        endpoint = `https://www.omdbapi.com/?s=${searchTerm.value}&apikey=XXXXXX`; //Please go to a free movie API website for getting your own API Key
+-        break;
+-       case 'year':
+-         enddpoint = `https://www.omdbapi.com/?t=${searchTerm.value}&y=${Yearsearch.value}&apikey=XXXXXX`; //Please go to a free movie API website for getting your own API Key
+-         breakk;
+-       default:
+-        break
+- }
 - 
 ### Replit for trail
 https://lab320233.francisleung.repl.co/staff
