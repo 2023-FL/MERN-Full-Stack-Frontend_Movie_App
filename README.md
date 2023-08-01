@@ -41,8 +41,12 @@ npm run dev
 npm run build
 ```
 ### preparation of opening your a free account for two movie api, weather api and MongoDB:
-- 1  
-- 2
+- Please try to look for an appropriate free movie API, such as https://rapidapi.com/juanroldan1989/api/moviequotes/ 
+  to register a user account and get a free API key, e.g. 'https://juanroldan1989-moviequotes-v1.p.rapidapi.com/api/v1/quotes' and then 
+  place the url link, which is provided by the website of https://rapidapi.com, into below statement in the file of http-common.js for 
+  fetching what movie you want with the input title
+  const url = "https://xxxxFREE_MOVIE_API"
+- 
 - 3
 - 
 ### Replit for trail
