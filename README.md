@@ -64,7 +64,7 @@ https://lab320233.francisleung.repl.co/staff
 
 ![image](https://github.com/2023-FL/MERN-Full-Stack-Frontend_Movie_App/assets/57984642/2058b4a3-8b39-4b75-8dde-85c943afc34c)
 
-Youtube link (https://youtu.be/89ntFfa6a3M)
+[Youtube link] (https://youtu.be/89ntFfa6a3M)
 
 
 
