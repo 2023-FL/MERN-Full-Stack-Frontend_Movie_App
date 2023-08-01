@@ -46,7 +46,10 @@ npm run build
   place the url link, which is provided by the website of https://rapidapi.com, into below statement in the file of http-common.js for 
   fetching what movie you want with the input title
   const url = "https://xxxxFREE_MOVIE_API"
-- 
+- Please go to Open Weather website of r opening a new user account and get API Key for your own account; then,place your own API Key 
+  and url link of the openweather into below statements in the file of WeatherCard.js
+  const apiKey = "XXXXXXXXXXXX"; //Go to OpenWeather website for registering your own account for getting API Key
+  const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${this.location}&units=metric&appid=${apiKey}`;
 - 3
 - 
 ### Replit for trail
