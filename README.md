@@ -53,9 +53,9 @@ npm run build
 - Please go to the website of https://www.omdbapi.com/ for opening your own user account and get your own API Key; then, place API Key and url link into below enpoint statements in the file of staff.js
 - endpoint = `https://www.omdbapi.com/?s=${searchTerm.value}&apikey=XXXXXX`; //Please go to a free movie API website for getting your own API Key
 - enddpoint = `https://www.omdbapi.com/?t=${searchTerm.value}&y=${Yearsearch.value}&apikey=XXXXXX`; //Please go to a free movie API website for getting your own API Key
+- Go to MongoDB webstie for registering a new user account and then creat a new collection under your own Database and get your own API Key for showing all movies on Home page.
 - 
 ### Replit for trail
-https://lab320233.francisleung.repl.co/staff
 ![image](https://github.com/2023-FL/MERN-Full-Stack-Frontend_Movie_App/assets/57984642/46a542ca-29c5-47a2-ab8c-7be94e9ca69b)
 
 ![image](https://github.com/2023-FL/MERN-Full-Stack-Frontend_Movie_App/assets/57984642/9caca64c-1cfd-460a-8a7f-a700f4bd0036)
@@ -66,6 +66,7 @@ https://lab320233.francisleung.repl.co/staff
 
 [Youtube link] (https://youtu.be/89ntFfa6a3M)
 
+https://lab320233.francisleung.repl.co/staff
 
 
 
