@@ -1,5 +1,5 @@
 # Construction in progress, not completed yet
-# Javascript + VueJS (HTML5+CSS) working with Quasar Framework
+# HTML5 + CSS3 + Javascript + ReactJS + VueJS working with Quasar Framework
 
 This template should help get you started developing with Vue 3 in Vite.
 
